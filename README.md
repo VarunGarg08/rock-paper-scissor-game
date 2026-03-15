@@ -76,4 +76,4 @@ Some improvements that can be added later:
 
 👤 Author
 
-Varun
+Varun Garg
